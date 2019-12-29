@@ -1,0 +1,31 @@
+.restaurant-cards {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin: 10px;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 15px;
+}
+
+.owner-home {
+    text-align: center;
+}
+
+.dropdown {
+    justify-content: right;
+    text-align: right;
+    align-content: right;
+    padding-top: 15px;
+}
+
+.rest-info {
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+}
+
+.no-restaurants {
+    padding: 20px;
+}

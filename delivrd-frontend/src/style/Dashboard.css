@@ -1,0 +1,25 @@
+.spinner-wrapper {
+    width: 100%;
+    /* -32px bc of content wrapper padding */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 32px 0px
+}
+
+.spinner-wrapper img {
+    width: 80px;
+}
+
+/* #tab-bar .demo {
+    display: flex;
+    flex-direction: column;
+}
+
+#tab-bar .demoName {
+    height: 40px;
+}
+
+#tab-bar .demo-preview-item .am-tab-bar {
+    background-color: white;
+} */
